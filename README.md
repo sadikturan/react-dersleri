@@ -5,7 +5,7 @@ Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase kursumuzu incel
 
 **React dersleri** yazılı dökümanlara ulaşmak için [tıklayınız.](https://sadikturan.com/react-dersleri)
 
-**Telegram grubuna** katılmak için [tıklayınız.](https://t.me/joinchat/PmV2Xhw1ZaeIq9EINxJNvg)
+**Telegram grubuna** katılmak için [tıklayınız.](https://t.me/sadikturancom)
 
 Son zamanların en popüler frontend kütüphanesi **React** 'i baştan sona uygulamalı projelerle öğrenmeye ne dersiniz?
 
